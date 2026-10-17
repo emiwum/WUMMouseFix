@@ -28,7 +28,7 @@ Most likely not. As much as I tested it didn't cause any desyncs and honestly I 
 
 ## Check out the video comparison of the game with and without the patch:
 
-[![Mouse fix showcase](https://img.youtube.com/vi/rehD9dvHr4c/maxresdefault.jpg)]([https://www.youtube.com/watch?v=rehD9dvHr4c])
+[![Mouse fix showcase](https://img.youtube.com/vi/rehD9dvHr4c/maxresdefault.jpg)](https://www.youtube.com/watch?v=rehD9dvHr4c)
 
 
 Includes [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader)
