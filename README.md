@@ -4,7 +4,9 @@ Mouse behaves insanely wonky in this game and this patch should make it work smo
 
 ### What it does and why?
 
-- In Worms Ultimate Mayhem mouse always moves as if the screen has 640x480 resolution, besides that, when you move cursor it always gets stuck, jitters or jumps backwards. This patch makes it, so 1 mouse step = 1 screen pixel (just like it would behave outside of the game), because of that now mouse can feel very slow in game (3 times slower on 1920x1080). If you have muscle memory from unpatched game i recommend putting high mouse sensitivity in game settings. If that's not enough you can change speed in mousefix.ini file. 
+In Worms Ultimate Mayhem mouse always moves as if the screen has 640x480 resolution, besides that, when you move cursor it always gets stuck, jitters or jumps backwards.
+
+- This patch makes it, so 1 mouse step = 1 screen pixel (just like it would behave outside of the game), because of that now mouse can feel very slow in game (3 times slower on 1920x1080). If you have muscle memory from unpatched game i recommend putting high mouse sensitivity in game settings. If that's not enough you can change speed in mousefix.ini file. 
 
 - Menu cursor was drawn every 20 ms, with patch it's drawn every frame. Inside of the match cursor snaps mouse back to the screen centre every frame.
 
