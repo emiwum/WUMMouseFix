@@ -14,7 +14,7 @@ Check mousefix.ini file for additional settings.
 
 ### How to install it?
 
-Go to last release and download the zip file. Put contents of the zip file inside of the game's main folder (WormsXHD). Voila
+Go to [releases](https://github.com/emiwum/WUMMouseFix/releases) and download the zip file. Put contents of the zip file inside of the game's main folder (WormsXHD). Voila
 
 ### How to UNINSTALL it?
 
